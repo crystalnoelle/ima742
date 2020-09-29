@@ -1,0 +1,26 @@
+
+body {
+  background-color: #001eb3;
+  background-image: url(https://www.transparenttextures.com/patterns/beige-paper.png);
+}
+
+h1 {
+  color: #54414E;
+  font-family: "Lucida Console", Courier, monospace;
+  text-align: center;
+}
+
+p {
+  color: #54414E;
+  font-family: "Lucida Console", Courier, monospace;
+
+}
+
+video::cue {
+  background-image: linear-gradient(to bottom, dimgray, lightgray);
+  color: papayawhip;
+}
+
+video::cue(b) {
+  color: peachpuff;
+
